@@ -1,1 +1,3 @@
-"Hello, this is me!" 
+Name: Anamika
+Skills: HTML, CSS, JS, Next.js
+Email: anamikakumari21340@gmail.com
